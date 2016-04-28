@@ -1,0 +1,10 @@
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\bin\Debug\Purchase.exe.config
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\bin\Debug\Purchase.exe
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\bin\Debug\Purchase.pdb
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.csprojResolveAssemblyReference.cache
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.Properties.Resources.resources
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.csproj.GenerateResource.Cache
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.exe
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.pdb
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.Department.resources
+c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.Login.resources
