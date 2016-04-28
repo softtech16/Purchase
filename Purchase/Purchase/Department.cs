@@ -17,5 +17,19 @@ namespace Purchase
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
         }
+
+        private void btn_admin_Click(object sender, EventArgs e)
+        {
+            Admin admin = new Admin();
+            this.Hide();
+            admin.ShowDialog();
+        }
+
+        private void btn_cmg_Click(object sender, EventArgs e)
+        {
+            CMG cmg = new CMG();
+            this.Hide();
+            cmg.ShowDialog();
+        }
     }
 }

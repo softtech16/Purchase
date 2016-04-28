@@ -8,3 +8,14 @@ c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Deb
 c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.pdb
 c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.Department.resources
 c:\users\krypton\documents\visual studio 2015\Projects\Purchase\Purchase\obj\Debug\Purchase.Login.resources
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\bin\Debug\Purchase.exe.config
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\bin\Debug\Purchase.exe
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\bin\Debug\Purchase.pdb
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.csprojResolveAssemblyReference.cache
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.Admin.resources
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.Department.resources
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.Login.resources
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.Properties.Resources.resources
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.csproj.GenerateResource.Cache
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.exe
+C:\Users\Krypton\Documents\Purchase\Purchase\Purchase\obj\Debug\Purchase.pdb

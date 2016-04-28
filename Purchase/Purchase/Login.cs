@@ -12,7 +12,6 @@ namespace Purchase
 {
     public partial class Login : Form
     {
-        string username, password;
         public Login()
         {
             InitializeComponent();
@@ -31,7 +30,8 @@ namespace Purchase
         {
             if (e.KeyCode == Keys.Enter)
             {
-                this.SelectNextControl((Control)sender, true, true, true, true);
+                //this.SelectNextControl((Control)sender, true, true, true, true);
+                btn_login_Click(this, new EventArgs());
             }
         }
 

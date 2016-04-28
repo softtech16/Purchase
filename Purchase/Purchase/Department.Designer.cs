@@ -43,6 +43,7 @@
             this.btn_admin.TabIndex = 0;
             this.btn_admin.Text = "ADMIN";
             this.btn_admin.UseVisualStyleBackColor = true;
+            this.btn_admin.Click += new System.EventHandler(this.btn_admin_Click);
             // 
             // btn_cmg
             // 
@@ -55,6 +56,7 @@
             this.btn_cmg.TabIndex = 1;
             this.btn_cmg.Text = "CMG";
             this.btn_cmg.UseVisualStyleBackColor = true;
+            this.btn_cmg.Click += new System.EventHandler(this.btn_cmg_Click);
             // 
             // Department
             // 
