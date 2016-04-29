@@ -17,5 +17,15 @@ namespace Purchase
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
         }
+
+        private void btn_view_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_create_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
