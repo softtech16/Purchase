@@ -32,7 +32,6 @@
             this.tbx_enterpono = new System.Windows.Forms.TextBox();
             this.btn_view = new System.Windows.Forms.Button();
             this.btn_create = new System.Windows.Forms.Button();
-            this.btn_back = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl_enterpono
@@ -83,22 +82,11 @@
             this.btn_create.UseVisualStyleBackColor = true;
             this.btn_create.Click += new System.EventHandler(this.btn_create_Click);
             // 
-            // btn_back
-            // 
-            this.btn_back.Location = new System.Drawing.Point(12, 80);
-            this.btn_back.Name = "btn_back";
-            this.btn_back.Size = new System.Drawing.Size(75, 23);
-            this.btn_back.TabIndex = 4;
-            this.btn_back.Text = "< Back";
-            this.btn_back.UseVisualStyleBackColor = true;
-            this.btn_back.Click += new System.EventHandler(this.btn_back_Click);
-            // 
             // Admin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 111);
-            this.Controls.Add(this.btn_back);
             this.Controls.Add(this.btn_create);
             this.Controls.Add(this.btn_view);
             this.Controls.Add(this.tbx_enterpono);
@@ -117,6 +105,5 @@
         private System.Windows.Forms.TextBox tbx_enterpono;
         private System.Windows.Forms.Button btn_view;
         private System.Windows.Forms.Button btn_create;
-        private System.Windows.Forms.Button btn_back;
     }
 }
