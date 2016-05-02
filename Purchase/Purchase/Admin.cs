@@ -25,7 +25,16 @@ namespace Purchase
 
         private void btn_create_Click(object sender, EventArgs e)
         {
+            this.Hide();
+            Admindetails admindetails = new Admindetails();
+            admindetails.ShowDialog();
+        }
 
+        private void btn_back_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Department department = new Department();
+            department.ShowDialog();
         }
     }
 }
