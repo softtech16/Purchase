@@ -31,5 +31,12 @@ namespace Purchase
             this.Hide();
             cmg.ShowDialog();
         }
+
+        private void btn_back_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.ShowDialog();
+        }
     }
 }

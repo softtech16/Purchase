@@ -52,17 +52,47 @@
     <Compile Include="Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="AdminDetail.cs">
+    <Compile Include="AdminContactDetails.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdminDetail.Designer.cs">
-      <DependentUpon>AdminDetail.cs</DependentUpon>
+    <Compile Include="AdminContactDetails.Designer.cs">
+      <DependentUpon>AdminContactDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admindetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admindetails.Designer.cs">
+      <DependentUpon>Admindetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminItemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminItemAdd.Designer.cs">
+      <DependentUpon>AdminItemAdd.cs</DependentUpon>
     </Compile>
     <Compile Include="CMG.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CMG.Designer.cs">
       <DependentUpon>CMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMGContactDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMGContactDetails.Designer.cs">
+      <DependentUpon>CMGContactDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMGdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMGdetails.Designer.cs">
+      <DependentUpon>CMGdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMGitemAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMGitemAdd.Designer.cs">
+      <DependentUpon>CMGitemAdd.cs</DependentUpon>
     </Compile>
     <Compile Include="Department.cs">
       <SubType>Form</SubType>
@@ -81,8 +111,26 @@
     <EmbeddedResource Include="Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AdminDetail.resx">
-      <DependentUpon>AdminDetail.cs</DependentUpon>
+    <EmbeddedResource Include="AdminContactDetails.resx">
+      <DependentUpon>AdminContactDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admindetails.resx">
+      <DependentUpon>Admindetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminItemAdd.resx">
+      <DependentUpon>AdminItemAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMG.resx">
+      <DependentUpon>CMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMGContactDetails.resx">
+      <DependentUpon>CMGContactDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMGdetails.resx">
+      <DependentUpon>CMGdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMGitemAdd.resx">
+      <DependentUpon>CMGitemAdd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Department.resx">
       <DependentUpon>Department.cs</DependentUpon>
